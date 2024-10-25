@@ -1,4 +1,4 @@
-#Comandos instalacion docker
+# Comandos instalacion docker
 
 - sudo apt update
 - sudo apt upgrade -y
@@ -12,4 +12,7 @@
 - sudo docker --version
 - sudo usermod -aG docker $USER
 - sudo docker run hello-world.
+
+## Foto docker finalizado
+
 
