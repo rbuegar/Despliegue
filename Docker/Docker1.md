@@ -14,5 +14,5 @@
 - sudo docker run hello-world.
 
 ## Foto docker finalizado
-
+![] (https://github.com/rbuegar/Despliegue/blob/master/Docker/docker.jpg)
 
