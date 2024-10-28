@@ -7,3 +7,4 @@
 - docker exec ubuntu cat /etc/os-release
 
 ## Imagen
+![](https://github.com/rbuegar/Despliegue/blob/master/Docker/docker2.jpg)
