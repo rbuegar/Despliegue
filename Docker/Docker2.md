@@ -9,5 +9,5 @@
 
 
 ## Captura todo instalado
-![](https://github.com/rbuegar/Despliegue/blob/master/Docker/docker.jpg)
+![](https://github.com/rbuegar/Despliegue/blob/master/Docker/docker2.jpg)
 
