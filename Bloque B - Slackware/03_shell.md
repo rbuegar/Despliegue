@@ -7,6 +7,11 @@
 
 #### Ejercicio 3.2
 
+![](https://github.com/rbuegar/Despliegue/blob/master/Bloque%20B%20-%20Slackware/Imagenes/LAB3%20F3.jpg?raw=true)
+
+#### Ejercicio  3.3
+
+![](https://github.com/rbuegar/Despliegue/blob/master/Bloque%20B%20-%20Slackware/Imagenes/LAB3%20F3.jpg?raw=true)
 
 
 
