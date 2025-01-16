@@ -15,7 +15,9 @@
 
 #### Ejercicio 3.4
 
-![]()
+![](https://github.com/rbuegar/Despliegue/blob/master/Bloque%20B%20-%20Slackware/Imagenes/LAB3%20F5.jpg?raw=true)
+
+![](https://github.com/rbuegar/Despliegue/blob/master/Bloque%20B%20-%20Slackware/Imagenes/LAB3%20F6.jpg?raw=true)
 
 
 
