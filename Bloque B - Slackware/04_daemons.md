@@ -2,7 +2,7 @@
 
 #### Ejercicio 4.1
 
-    ![]()
+![](https://github.com/rbuegar/Despliegue/blob/master/Bloque%20B%20-%20Slackware/Imagenes2/LAB4%20F1.jpg?raw=true)
 
     -- Explicacion de los procesos:
 
@@ -20,9 +20,14 @@
 
 #### Ejercicio 4.2
 
-    ![]()
+![](https://github.com/rbuegar/Despliegue/blob/master/Bloque%20B%20-%20Slackware/Imagenes2/LAB4%20F2.jpg?raw=true)
 
 #### Ejercicio 4.3
 
-    ![]()   
+![](https://github.com/rbuegar/Despliegue/blob/master/Bloque%20B%20-%20Slackware/Imagenes2/LAB4%20F3.jpg?raw=true)   
+
+#### Ejercicio 4.4
+
+![]() 
+
 
