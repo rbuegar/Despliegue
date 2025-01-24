@@ -28,6 +28,21 @@
 
 #### Ejercicio 4.4
 
-![]() 
+![](https://github.com/rbuegar/Despliegue/blob/master/Bloque%20B%20-%20Slackware/Imagenes2/LAB4%20F4.jpg?raw=true) 
+
+![](https://github.com/rbuegar/Despliegue/blob/master/Bloque%20B%20-%20Slackware/Imagenes2/LAB4%20F4.2.jpg?raw=true) 
+
+![](https://github.com/rbuegar/Despliegue/blob/master/Bloque%20B%20-%20Slackware/Imagenes2/LAB4%20F4.3.jpg?raw=true) 
+
+![](https://github.com/rbuegar/Despliegue/blob/master/Bloque%20B%20-%20Slackware/Imagenes2/LAB4%20F4.4.jpg?raw=true) 
+
+
+- What is sftp and ssh? Why is the use of telnet discouraged in the “real world”?
+
+SFTP (Secure File Transfer Protocol) es un protocolo que permite transferir archivos de manera segura entre sistemas mediante una conexión cifrada, utilizando el protocolo SSH para proteger los datos.
+
+SSH (Secure Shell) es un protocolo de red que permite acceder de forma segura a otro sistema mediante una conexión cifrada, proporcionando funciones de administración remota, ejecución de comandos y transferencia de archivos.
+
+El uso de Telnet está desaconsejado en el "mundo real" porque no utiliza cifrado para las comunicaciones. Esto significa que toda la información, incluidas contraseñas y datos sensibles, viaja en texto plano, lo que la hace vulnerable a ataques como la intercepción de datos por terceros (sniffing). En su lugar, se recomienda usar SSH, que garantiza la seguridad mediante cifrado.
 
 
