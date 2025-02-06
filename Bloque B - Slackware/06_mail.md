@@ -47,7 +47,7 @@ IMAP: Mantiene los correos en el servidor, permitiendo acceso desde múltiples d
 POP3 es más simple y ahorra espacio en el servidor, mientras que IMAP ofrece mejor sincronización y acceso remoto.
 
 
--- Pregunta 2
+-- Pregunta 2   
 
 
 PGP (Pretty Good Privacy) es un sistema de cifrado usado para asegurar la privacidad y autenticidad de los correos electrónicos y archivos.
