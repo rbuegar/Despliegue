@@ -33,9 +33,9 @@
 - ¿Qué tiene de especial index.html?
     - Es la página por defecto que carga Apache si no se especifica otra.
 
-![]()
+![](https://github.com/rbuegar/Despliegue/blob/master/Bloque%20B%20-%20Slackware/Imagenes4/LAB7%20CAP1.jpg?raw=true)
 
-![]()
+![](https://github.com/rbuegar/Despliegue/blob/master/Bloque%20B%20-%20Slackware/Imagenes4/LAB7%20CAP2.jpg?raw=true)
 
 ### Actividad 4
 
@@ -45,7 +45,7 @@
 - ¿Qué tiene de especial 127.0.0.1?
     - Es la dirección local del sistema (localhost).
 
-![]()
+![](https://github.com/rbuegar/Despliegue/blob/master/Bloque%20B%20-%20Slackware/Imagenes4/LAB7%20CAP3.jpg?raw=true)
 
 ### Actividad 5
 
@@ -53,12 +53,12 @@
 
     - Muestra información de PHP, módulos instalados y configuración.
 
-![]()
+![](https://github.com/rbuegar/Despliegue/blob/master/Bloque%20B%20-%20Slackware/Imagenes4/LAB7%20CAP4.jpg?raw=true)
 
-![]()
+![](https://github.com/rbuegar/Despliegue/blob/master/Bloque%20B%20-%20Slackware/Imagenes4/LAB7%20CAP5%20.jpg?raw=true)
 
 ### Actividad 6
 
-![]()
+![](https://github.com/rbuegar/Despliegue/blob/master/Bloque%20B%20-%20Slackware/Imagenes4/LAB7%20CAP6.jpg?raw=true)
 
-![]()
+![](https://github.com/rbuegar/Despliegue/blob/master/Bloque%20B%20-%20Slackware/Imagenes4/LAB7%20CAP7.jpg?raw=true)
